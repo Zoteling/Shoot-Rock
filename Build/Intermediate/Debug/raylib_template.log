@@ -1,0 +1,10 @@
+﻿  Bullet.cpp
+  Debris.cpp
+  Level.cpp
+  Player.cpp
+  Rock.cpp
+  Particle.cpp
+  Generating Code...
+  main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  raylib_template.vcxproj -> C:\Users\nilsh\Desktop\Shoot Rock Project - Nils Howland\Build\Debug\raylib_template.exe
